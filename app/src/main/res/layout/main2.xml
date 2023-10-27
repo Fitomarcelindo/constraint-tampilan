@@ -71,7 +71,7 @@
         android:drawableStart="@drawable/baseline_laptop_mac_24"
         android:drawablePadding="15dp"
         android:hint="Password"
-        android:inputType="textPassword"
+
         android:padding="28dp"
         android:textColorHint="@color/black" />
 
@@ -92,7 +92,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/btnLogin"
+        android:id="@+id/btnshare"
         android:layout_width="200dp"
         android:layout_height="60dp"
         android:layout_below="@+id/textweb"

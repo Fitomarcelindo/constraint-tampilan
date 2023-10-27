@@ -99,13 +99,15 @@
             android:id="@+id/radioPria"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Pria" />
+            android:text="Pria"
+           />
 
         <RadioButton
             android:id="@+id/radioWanita"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Wanita" />
+            android:text="Wanita"
+            />
     </RadioGroup>
 
     <ImageButton
