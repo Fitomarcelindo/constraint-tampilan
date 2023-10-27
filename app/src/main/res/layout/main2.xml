@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="50dp"
-        android:text="LOGIN"
+        android:text="Create by Marcel"
         android:textColor="@color/white"
         android:textSize="28sp"
         android:textStyle="bold"
@@ -52,7 +52,7 @@
         android:background="#FFFF"
         android:drawableStart="@drawable/baseline_person_24"
         android:drawablePadding="15dp"
-        android:hint="Username"
+        android:hint="Gender"
         android:padding="28dp"
         android:textColorHint="@color/black"
 
@@ -70,8 +70,7 @@
         android:background="#FFFF"
         android:drawableStart="@drawable/baseline_laptop_mac_24"
         android:drawablePadding="15dp"
-        android:hint="Password"
-
+        android:hint="Hobi"
         android:padding="28dp"
         android:textColorHint="@color/black" />
 
@@ -99,6 +98,6 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="30dp"
         android:backgroundTint="@color/cardview_dark_background"
-        android:text="Login" />
+        android:text="Share to APPS" />
 
 </RelativeLayout>
